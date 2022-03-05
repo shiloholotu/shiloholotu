@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiloholotu
-- 👀 I’m interested in writing github bios
-- 🌱 I’m currently learning how to write a github bio
+- 👀 I’m interested in writing github READMEs
+- 🌱 I’m currently learning how to write a github README
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me shiloholotu@gmail.com
 

@@ -1,6 +1,6 @@
 Hey👋, I'm Ifedolapo Shiloh Olotu(or just Shiloh) and this is my README.md file.
 I'm a high school student of the class of 2025 and I'm very passionate about programming and music.
-I'm very comfortable with web developement languages and I also have a solid foundation in C++ and Python.
+I'm very comfortable with web developement languages and have a solid foundation in C++ and Python.
 My goal is to use technology to create intuitive and impactful solutions in the world.
 
 <!---

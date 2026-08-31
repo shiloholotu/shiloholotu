@@ -1,4 +1,4 @@
-Computer Science and Engineering Student @ MIT
+Electrical Engineering and CS Student @ MIT
 
 I'm here to learn and mess around with stuff.
 
